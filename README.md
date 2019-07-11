@@ -83,6 +83,6 @@ This was a cold sweat moment because putting all together - 3D printed button, b
 
 ## Result
 
-It works great. Look on this Duplo grandma sitting on the couch, watching TV and having a nice evening with this shining Duplo brick. Maybe you are asking here why I'm calling it Smart LEGO Duplo. And you are right. There's nothing smart on switch on/off the LED. My idea is having a Duplo brick with a battery and MCU inside. You can replace the white LED with RGB and create Disco effects, you can replace LED with two (red and blue) and speaker and create police siren... Endless possibilities! 😍
+It works great. Look on this Duplo grandma sitting on the couch, watching TV and having a nice evening with her new shining Duplo brick. Maybe you are asking here why I'm calling it Smart LEGO Duplo. And you are right. There's nothing smart on switching on/off the LED. My idea was having a Duplo brick with a battery and MCU inside. You can replace the white LED with RGB and create Disco effects, you can replace LED with two (red and blue) and speaker and create police siren... Endless possibilities! 😍
 
 ![Final result](docs/done.jpg "Example of the LED brick in our latest Duplo house")
