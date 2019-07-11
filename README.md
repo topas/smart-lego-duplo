@@ -66,8 +66,9 @@ Lets put all together. Here is full part list:
 - Resistor 100Ω
 - CR2032 coin battery
 - Battery holder  
+- Tactile switch 12x12 mm
 - White 5mm LED with big diffusion angle (I used 140°)
-- 3 pcs self tapping screw 2.5x12mm
+- 3 pcs self tapping screw 2.5x12 mm
 - Wires
 - Solder, soldering paste, etc.  
 
