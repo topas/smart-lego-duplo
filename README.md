@@ -1,3 +1,5 @@
+![LEGO Duplo with LED](docs/cover.jpg "LEGO Duplo with LED")
+
 # Smart LEGO Duplo 
 
 A couple months ago I figured out that CR2032 (3V coin battery) is small enough to fit inside a LEGO Duplo brick. Meanwhile, with my daughter, we built a Duplo house and put a small flashlight inside the have a nice atmosphere there while Lego figures having dinner. And almost immediately this question came to my mind: Can I build a Duplo brick with a LED to have the perfect light for our houses? 🤔
@@ -86,3 +88,5 @@ This was a cold sweat moment because putting all together - 3D printed button, b
 It works great. Look on this Duplo grandma sitting on the couch, watching TV and having a nice evening with her new shining Duplo brick. Maybe you are asking here why I'm calling it Smart LEGO Duplo. And you are right. There's nothing smart on switching on/off the LED. My idea was having a Duplo brick with a battery and MCU inside. You can replace the white LED with RGB and create Disco effects, you can replace LED with two (red and blue) and speaker and create police siren... Endless possibilities! 😍
 
 ![Final result](docs/done.jpg "Example of the LED brick in our latest Duplo house")
+
+![Rotating LEGO brick](docs/rotating.gif "LEGO Duplo Brick rotating")
